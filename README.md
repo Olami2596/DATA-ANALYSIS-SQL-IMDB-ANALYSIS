@@ -1,2 +1,2 @@
 # Analysis-of-imdb-dataset-using-sql
-I analysed and cleaned imdb datasets using sql
+An analysis carried out on an imdb datasets using sql
